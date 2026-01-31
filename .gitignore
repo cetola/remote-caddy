@@ -1,0 +1,15 @@
+# FreeCAD
+*.FCStd1
+*.bak
+*.tmp
+
+# Mesh exports (optional — comment out if you want all STLs tracked)
+# *.stl
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
